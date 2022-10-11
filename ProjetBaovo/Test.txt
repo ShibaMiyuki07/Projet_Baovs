@@ -1,0 +1,3 @@
+java C:\LeconS5\Projet\ProjetBaovo\src\java\Page\Test\Page.Test.Test
+
+pause

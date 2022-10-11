@@ -1,0 +1,4 @@
+A faire restant :
+	-Ajout de la filiere choisi par le candidatX
+	-Choix de la promotion lors du choix de filiereX
+	-Liste les candidats pour chaque filiereX
